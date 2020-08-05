@@ -1,5 +1,7 @@
 # TheBase
 
+###[Gitee]([QMUI](https://github.com/Tencent/QMUI_Android))
+
 #### 介绍
 主要以[QMUI](https://github.com/Tencent/QMUI_Android)封装的一个基础框架。
 
